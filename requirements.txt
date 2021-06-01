@@ -180,7 +180,7 @@ uncompyle6==2.15.1
 unicodecsv==0.14.1
 unpy2exe==0.3
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 vine==1.1.4
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
