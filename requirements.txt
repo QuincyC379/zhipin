@@ -14,7 +14,7 @@ bleach==1.5.0
 blinker==1.4
 boto3==1.6.4
 botocore==1.9.4
-celery==4.1.0
+celery==5.2.2
 certifi==2017.11.5
 cffi==1.11.2
 chardet==3.0.4
