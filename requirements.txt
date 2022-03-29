@@ -103,7 +103,7 @@ opencv-python==3.4.1
 openpyxl==2.5.3
 pandas==0.20.3
 pandocfilters==1.4.2
-paramiko==2.4.1
+paramiko==2.10.1
 parsel==1.2.0
 parso==0.1.1
 pdfkit==0.6.1
