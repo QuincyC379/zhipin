@@ -174,7 +174,7 @@ termcolor==1.1.0
 testpath==0.3.1
 tornado==4.5.2
 traitlets==4.3.2
-Twisted==17.9.0
+Twisted==22.2.0
 uncompyle2==1.1
 uncompyle6==2.15.1
 unicodecsv==0.14.1
